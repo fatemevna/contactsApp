@@ -1,0 +1,12 @@
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\bin\Debug\Contacts.mdf
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\bin\Debug\Contacts_log.ldf
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\bin\Debug\Contacts App 2.exe.config
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\bin\Debug\Contacts App 2.exe
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\bin\Debug\Contacts App 2.pdb
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts App 2.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts_App_2.Form1.resources
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts_App_2.Properties.Resources.resources
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts App 2.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts App 2.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts App 2.exe
+C:\Users\mohajer\source\repos\Contacts App 2\Contacts App 2\obj\Debug\Contacts App 2.pdb
